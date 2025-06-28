@@ -7,9 +7,9 @@ It involves building a complete machine learning pipeline—from data preprocess
 ## What is the problem?
 Businesses like malls or stores want to understand what type of customers visit them. If they know this, they can:
 
-Recommend the right products
-Send targeted advertisements
-Improve customer service
+1.Recommend the right products
+2.Send targeted advertisements
+3.Improve customer service
 
 But they don’t want to manually analyze every customer.
 So, we need to build a machine learning system that:
@@ -20,9 +20,9 @@ Predicts what kind of customer group (or category) they belong to
 # for example
 You want to categorize these customers as:
 
-Budget Shoppers
-Luxury Shoppers
-Occasional Shoppers
+Budget Shoppers,
+Luxury Shoppers,
+Occasional Shoppers,
 Loyal Customers
 
 Once categorized, the next time a new customer walks in, the system should predict their category using their details.
